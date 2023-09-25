@@ -3,7 +3,7 @@
 
 ## Add symbolic link to data, to be visible by Google Colab:
 
-1. First click this [link](https://drive.google.com/drive/folders/1vrLE8nbpMHdTeWCpI2rrS1scQmQW_ujE?usp=share_link). 
+1. First click this [link](https://drive.google.com/drive/folders/1vrLE8nbpMHdTeWCpI2rrS1scQmQW_ujE?usp=share_link).  
 2. You may have to first sign into GDrive using the blue button in the top right hand corner that says `Sign in`. 
 3. One you have signed in, right click on the folder `climate_net` and select `Add a shortcut to Drive` and click `Add Shortcut` if the blue banner is highlighting `My Drive`, if it isnt, select `My Drive` and then select `Add Shortcut`.
 
